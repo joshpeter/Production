@@ -1,3 +1,4 @@
+
 Manifest-Version: 1.0
 Bundle-SymbolicName: EGit; singleton:=true
 Bundle-ManifestVersion: 2
@@ -43,4 +44,5 @@ Import-Service: com.sap.esb.webservice.audit.log.AuditLogger,com.sap.e
  e;filter="(dataSourceName=default)",org.apache.cxf.ws.rm.persistence.
  RMStore;multiple:=false,com.sap.esb.camel.security.cms.SignatureSplit
  ter;multiple:=false
+
 
