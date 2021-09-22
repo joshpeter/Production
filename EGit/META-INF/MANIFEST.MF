@@ -32,7 +32,9 @@ Import-Package: com.sap.esb.application.services.cxf.interceptor,com.s
 Origin-Bundle-Name: EGit
 SAP-RuntimeProfile: iflmap
 Bundle-Name: EGit
-Bundle-Version: 3.0
+
+Bundle-Version: 4.0
+
 SAP-NodeType: IFLMAP
 SAP-BundleType: IntegrationFlow
 Import-Service: com.sap.esb.webservice.audit.log.AuditLogger,com.sap.e
